@@ -1,2 +1,2 @@
-# autoscad-drawings
-Collection of AutoSCAD scripts
+# openscad-drawings
+Collection of OpenSCAD scripts
